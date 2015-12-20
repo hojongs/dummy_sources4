@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "head1.h"
-#include "head2.h"
+#include "include/head1.h"
+#include "include/head2.h"
 //구조체
 //함수
 //Makefile
